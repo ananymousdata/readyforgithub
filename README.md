@@ -1,2 +1,2 @@
 # readyforgithub
-Just for learning GitHub purpose
+Just for learning GitHub through coursera lactures
